@@ -1,9 +1,9 @@
 {
     "apiUrl": "https://calacula.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.3",
+        "updateVersiyon": "1.4.4",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Medya player için bir kaç uzantı desteği sağlandı, Bazı bölümlerin stabil çalışması için iyileştirmeler yapıldı.....",
+        "updateYenilik": "Android system webview kaynaklı bazı cihazlarda film dizi oynatmama sorunu giderildi.",
         "updateLink": "https://github.com/asdsplus/pro/raw/main/GolgeTV-PLUS.apk"
     },
      "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
