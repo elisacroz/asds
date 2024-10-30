@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://calacula.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.4",
+        "updateVersiyon": "1.4.5",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Android system webview kaynaklı bazı cihazlarda film dizi oynatmama sorunu giderildi.",
         "updateLink": "https://github.com/asdsplus/pro/raw/main/GolgeTV-PLUS.apk"
