@@ -1,7 +1,7 @@
 {
-    "apiUrl": "https://calacula.store/appMainGetData.php",
+    "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.6",
+        "updateVersiyon": "1.4.7",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Canlı Maçlar 1 için optimizasyon yapıldı.",
         "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.6.apk"
