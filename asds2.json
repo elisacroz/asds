@@ -1,9 +1,9 @@
 {
     "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.9",
+        "updateVersiyon": "1.5.0",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Player içindeki playlist güncellendi.",
+        "updateYenilik": "Yeni panel yada içerik için ön hazırlık yapıldı.",
         "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.6.apk"
     },
      "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
